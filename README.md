@@ -186,3 +186,10 @@ AgroMind provides AI-generated agricultural guidance based on available training
 - Base model: [Qwen2.5](https://github.com/QwenLM/Qwen2.5) by Alibaba Cloud
 - Fine-tuning framework: [Unsloth](https://github.com/unslothai/unsloth), [Hugging Face TRL](https://github.com/huggingface/trl)
 - Data sources: Kaggle open datasets, ICAR, FAO, data.gov.in
+
+Author
+Shivam Pandey
+
+AgroAid AI Platform
+
+AI-Powered Agricultural Intelligence & Mandi Analytics  
